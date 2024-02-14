@@ -18,7 +18,7 @@ Password: DRAG1234!
 Also, book uploaded in the repository
 
 Team timeline (this timeline is still not complete):  
-- 20/2/2024 - Complete ROS 2 playlist. Do dual bot and install ROS 2 (Humble)  
+- 17/2/2024 - Complete ROS 2 playlist. Do dual bot and install ROS 2 (Humble)  
 - 21/2/2024 - Defining what needs to be done and divide the work between the team mebers  
 - 29/2/2024 - First Milestone (Still not definied)  
 - 07/3/2024 - Second Milestone (Still not definied)  
