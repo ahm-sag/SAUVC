@@ -9,12 +9,13 @@ https://www.youtube.com/watch?v=0aPbWsyENA8&list=PLLSegLrePWgJudpPUof4-nVFHGkB62
 
 Ready made ROS for submarine:  
 https://github.com/hydronautics-team/stingray    
-
+  
 Rov course  
 https://course.cpsdrone.com/users/sign_in  
 Username: drag.suas24@gmail.com  
 Password: DRAG1234!  
 
+Also, book uploaded in the repository
 
 Team timeline (this timeline is still not complete):  
 - 20/2/2024 - Finish understanding ROS basic concepts  
